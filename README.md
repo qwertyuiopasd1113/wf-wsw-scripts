@@ -28,3 +28,14 @@ Before|After
 lets you use a custom sky on all maps. if a map doesn't work with it, make an issue here.  
 add `sky_ft.png`, `sky_dn.png`, `sky_up.png`, `sky_bk.png`, `sky_rt.png` and `sky_lf.png` to `/gfx/customsky/`  
 (todo: add screenshots)
+
+### z_fullbright.shader
+fullbright shader that lets you use outlines  
+(`cg_outlinePlayers 0` or `cg_outlineModels 0`) if u dont want that  
+weapons are darker, rocket and grenade are fullbright  
+all playermodels work fine
+
+### z_customweapons.shader
+lets u use custom eb beam, custom plasmagun and custom lg (probably redundant for wsw)  
+have folder in ur homedir and add `electro.png`, `laserbeam.png`, `pl.png` and `rlexplo1.png` to `rlexplo8.png` to `/gfx/cwp/`  
+there are samples (except for rlexplo since i haven't made them, they're just edits of the default)  
