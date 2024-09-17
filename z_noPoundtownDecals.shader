@@ -1,3 +1,5 @@
+// by gauley
+
 textures/asimo/decal_asimo { }
 textures/asimo/decal_number_1 { }
 textures/asimo/decal_number_2 { }

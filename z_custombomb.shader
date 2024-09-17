@@ -1,3 +1,5 @@
+// by gauley
+
 models/objects/misc/bomb {
     nopicmip
     {

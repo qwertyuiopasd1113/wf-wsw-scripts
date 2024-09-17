@@ -1,4 +1,5 @@
 //by gauley
+
 customskybox
 {
 	qer_editorimage gfx/customsky/sky_ft
