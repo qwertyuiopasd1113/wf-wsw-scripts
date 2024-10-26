@@ -33,7 +33,11 @@ add `sky_ft.png`, `sky_dn.png`, `sky_up.png`, `sky_bk.png`, `sky_rt.png` and `sk
 fullbright shader that lets you use outlines  
 (`cg_outlinePlayers 0` or `cg_outlineModels 0`) if u dont want that  
 weapons are darker, rocket and grenade are fullbright  
-all playermodels work fine
+all playermodels work fine  
+__z_fullbright2.shader__ is more true to the original fullbright by goochie with the cel shade effect on weapons
+Before|After|Fullbright 2
+|-|-|-|
+![image](https://github.com/user-attachments/assets/4beb38ab-8547-4be7-84c6-cd7013da9ec0)|![image](https://github.com/user-attachments/assets/24beae1f-fd76-4ba2-892f-f6113d2ed85b)|![image](https://github.com/user-attachments/assets/0b97c533-4dde-4ef0-94f9-13323ee2fb6e)
 
 ### z_customweapons.shader
 lets u use custom eb beam, custom plasmagun and custom lg (probably redundant for wsw)  
