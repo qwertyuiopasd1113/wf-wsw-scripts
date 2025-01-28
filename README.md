@@ -39,7 +39,14 @@ Before|After|Fullbright 2
 |-|-|-|
 ![image](https://github.com/user-attachments/assets/4beb38ab-8547-4be7-84c6-cd7013da9ec0)|![image](https://github.com/user-attachments/assets/24beae1f-fd76-4ba2-892f-f6113d2ed85b)|![image](https://github.com/user-attachments/assets/0b97c533-4dde-4ef0-94f9-13323ee2fb6e)
 
-### z_customweapons.shader
-lets u use custom eb beam, custom plasmagun and custom lg (probably redundant for wsw)  
-have folder in ur homedir and add `electro.png`, `laserbeam.png`, `pl.png` and `rlexplo1.png` to `rlexplo8.png` to `/gfx/cwp/`  
-there are samples (except for rlexplo since i haven't made them, they're just edits of the default)  
+### z_cwp_eb.shader
+lets you use custom eb beam on warfork by adding it to `gfx/cwp/electro.png`
+
+### z_cwp_lg.shader
+lets you use custom laserbeam on warfork by adding it to `gfx/cwp/laser.png`
+
+### z_cwp_pg.shader
+transparent and team coloured plasma, add a texture in `gfx/cwp/pl.png`
+
+### z_cwp_rl.shader
+lets you use custom RL explosion by adding `gfx/cwp/rlexplo1.png` up to `rlexplo8.png` **(There is no sample texture for this one, as the texture I use is not created by me)**
