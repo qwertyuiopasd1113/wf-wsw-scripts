@@ -43,7 +43,7 @@ Before|After|Fullbright 2
 lets you use custom eb beam on warfork by adding it to `gfx/cwp/electro.png`
 
 ### z_cwp_lg.shader
-lets you use custom laserbeam on warfork by adding it to `gfx/cwp/laser.png`
+lets you use custom laserbeam on warfork by adding it to `gfx/cwp/laserbeam.png`
 
 ### z_cwp_pg.shader
 transparent and team coloured plasma, add a texture in `gfx/cwp/pl.png`
