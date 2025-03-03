@@ -3,8 +3,8 @@ my custom shader scripts for warfork/warsow
 
 ## how to use?
 go to your homedir and place the `.shader` files in the `scripts` folder. if it doesn't exist, make it  
-if needed, download the gfx needed and place them in the location it tells you to.
-there are also pk3's if you can't figure it out
+if needed, download the gfx needed and place them in the location it tells you to.  
+  
 Warfork:  
 Windows: `%USERPROFILE%\Documents\My Games\Warfork 2.1\basewf`  
 Linux/Mac: `~/.local/share/warfork-2.1/basewf`<br /><br />
