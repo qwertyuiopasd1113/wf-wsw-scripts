@@ -1,4 +1,16 @@
-// projectiles
+// by gauley
+
+fullbright
+{
+	nodepth
+	cull none
+	noDepthTest
+	{
+		map $whiteimage
+		rgbGen entity
+		alphaGen vertex
+	}
+}
 
 models/objects/projectile/glauncher/grenade		{ template fullbright }
 models/objects/projectile/glauncher/grenadegradstrong
