@@ -6,7 +6,7 @@ cweapon
     nopicmip
  
     {
-        //celshade gfx/ui/white env/cell - - -
+        map $whiteimage
         rgbGen const $1 $2 $3
         alphaGen identity
     }
