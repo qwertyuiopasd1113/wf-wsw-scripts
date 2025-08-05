@@ -36,11 +36,16 @@ makes all of the playermodels a single color. lets you use outlines
 (`cg_outlinePlayers 0` or `cg_outlineModels 0`) if you dont want them to be outlined  
 all playermodels work fine  
 
+### z_fullbright_playermodels_celshade.shader
+above, with celshade effect added.  
+
 ### z_fullbright_weapons.shader
 all of the weapons are a single color. weapons are dark-ish
 
 ### z_fullbright_weapons_celshade.shader
 above, with celshade effect added.  
+
+this video is outdated, the colors are now brighter
 
 https://github.com/user-attachments/assets/abd28642-e26a-4822-b818-2a6e339c5192
 

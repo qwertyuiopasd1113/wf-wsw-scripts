@@ -1,3 +1,5 @@
+// by algolineu
+
 simplefb
 {
 	nopicmip

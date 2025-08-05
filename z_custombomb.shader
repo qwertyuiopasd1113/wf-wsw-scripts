@@ -1,4 +1,4 @@
-// by gauley
+// by algolineu
 
 models/objects/misc/bomb {
     nopicmip

@@ -1,4 +1,4 @@
-// by gauley
+// by algolineu
 
 models/objects/projectile/plasmagun/plnew
 {

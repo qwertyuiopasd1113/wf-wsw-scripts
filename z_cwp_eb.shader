@@ -1,4 +1,4 @@
-// by gauley
+// by algolineu
 
 invisible
 { map $whiteimage }

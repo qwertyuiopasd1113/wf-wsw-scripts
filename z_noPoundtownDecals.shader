@@ -1,4 +1,4 @@
-// by gauley
+// by algolineu
 
 textures/asimo/decal_asimo { }
 textures/asimo/decal_number_1 { }

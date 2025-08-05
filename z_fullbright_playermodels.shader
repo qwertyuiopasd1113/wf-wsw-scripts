@@ -1,4 +1,4 @@
-// edited by gauley
+// edited by algolineu
 
 fullbright
 {

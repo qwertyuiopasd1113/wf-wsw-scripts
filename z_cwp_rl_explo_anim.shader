@@ -1,4 +1,4 @@
-// by gauley
+// by algolineu
 
 gfx/rocket_explosion
 {
