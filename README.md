@@ -21,14 +21,14 @@ Before|After
 ![image](https://github.com/user-attachments/assets/fd315f91-08b4-41f7-a31a-b484e1047ac0)|![image](https://github.com/user-attachments/assets/9a0ebae0-2152-47ce-a37e-85566dabded0)
 
 ### z_custombomb.shader
-Makes the bomb bright yellow and bright red when planted, useful with dynamic lights making it very visible to see
+Makes the bomb bright yellow and bright red when planted
 | |Normal|Planted|
 |-|-|-|
 |Dynamic lights off|![image](https://github.com/user-attachments/assets/51305f7f-5585-44e1-8e4f-43e501534043)|![image](https://github.com/user-attachments/assets/edcf7c31-b19e-4125-bfb7-6c1d687c7bd9)|
 |Dynamic lights on |![image](https://github.com/user-attachments/assets/c4d6c956-1ec9-4d59-98ef-7a3104ab2f4c)|![image](https://github.com/user-attachments/assets/2f929e9b-6ad9-4190-9491-2cb622dcf895)|
 
 ### z_customsky.shader
-lets you use a custom sky on all maps. if a map doesn't work with it, make an issue here.  
+lets you use a custom sky on most maps. if a map doesn't work with it, make an issue here.  
 add `sky_ft.png`, `sky_dn.png`, `sky_up.png`, `sky_bk.png`, `sky_rt.png` and `sky_lf.png` to `/gfx/customsky/`  
 
 ### z_fullbright_playermodels.shader
@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/abd28642-e26a-4822-b818-2a6e339c5192
 
 ### z_cwp_projectiles_vis.shader
 makes the RL rockets and GL nades team colored and more visible, requires custom texture in `gfx/cwp/rocket_strong.png` and `gfx/cwp/grenadegradstrong.png`  
-(note: there is `_rocket_strong.png` in this repo, which used as the texture makes it big but not looks great and may be hard to see with some colors...)
+(note: there is `_rocket_strong.png` in this repo, which if used as the texture makes it big but not looks great and may be hard to see with some colors...)
 
 https://github.com/user-attachments/assets/928f90ad-2529-4288-9d65-91e8051c8008
 
